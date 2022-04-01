@@ -1,13 +1,8 @@
 # Javascript-Projects-for-begginerss
 Here are several projects in JavaScript language for beginners.
 
-
-## You can see all projects in action here
-
-[Projects](https://www.vanillajavascriptprojects.com/)
-
 1. Color Flipper 
-2. Counter [ unfinished ]
+2. Counter 
 3. Reviews  [ unfinished ]
 4. Navbar  [ unfinished ]
 5. Sidebar  [ unfinished ]
