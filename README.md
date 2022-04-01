@@ -3,7 +3,7 @@ Here are several projects in JavaScript language for beginners.
 
 1. Color Flipper 
 2. Counter 
-3. Reviews  [ unfinished ]
+3. Reviews  
 4. Navbar  [ unfinished ]
 5. Sidebar  [ unfinished ]
 6. Modal  [ unfinished ]
