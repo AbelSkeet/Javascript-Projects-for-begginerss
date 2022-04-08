@@ -4,7 +4,7 @@ Here are several projects in JavaScript language for beginners.
 1. Color Flipper 
 2. Counter 
 3. Reviews  
-4. Navbar  [ unfinished ]
+4. Navbar  
 5. Sidebar  [ unfinished ]
 6. Modal  [ unfinished ]
 7. Questions  [ unfinished ]
